@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "finta-py"
+version = "1.0"
+description = "Python Library for Fintava APIs"
+authors = ["musawakiliml"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
