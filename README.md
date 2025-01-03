@@ -36,4 +36,5 @@ fintaPy is a Python SDK for seamless integration with Fintava Pay, providing dev
 ### Roadmap
 | Sections | Features |
 | ---------| ---------|
-| Fintava API | - [] Introduction <br> - [ ] Environments <br> - [ ] Authentication <br> - [ ] Pagination <br> - [ ] Response codes|
+| Fintava API | - [ ] Introduction <br> - [ ] Environments <br> - [ ] Authentication <br> - [ ] Pagination <br> - [ ] Response codes|
+| Customer | - [ ] 
