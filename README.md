@@ -73,3 +73,63 @@ fintaPy is a Python SDK for seamless integration with Fintava Pay, providing dev
 - [ ] Unfreeze Wallet (patch)
 - [ ] Fetch Customer (get)
 - [ ] Get Customer Transaction (get)
+
+#### Merchant
+
+- [ ] Get merchant transactions (get)
+- [ ] Get merchant's wallet balance (get)
+- [ ] Merchant Transfer (post)
+
+#### Virtual WALLET
+
+- [ ] Generate Virtual Wallet (post)
+- [ ] Virtual Wallet Details (get)
+- [ ] Batch Virtual Wallet Create (post)
+
+#### Transactions
+
+- [ ] Get Virtual Card Transactions (get)
+- [ ] Get Transaction by id (get)
+- [ ] Get Transaction by Reference (get)
+
+#### Transfer
+
+- [ ] Wallet Balance (get)
+- [ ] Transfer to bank (post)
+- [ ] Get Bank Lists (get)
+- [ ] Transfer between wallets (post)
+- [ ] Wallet Transfer (post)
+- [ ] Get Wallet Details (get)
+- [ ] Get Account Details (get)
+
+#### SMS
+
+- [ ] Send Sms (post)
+- [ ] Send bulk (post)
+- [ ] SMS list (get)
+
+#### Compliance
+
+- [ ] Verify Bvn (get)
+- [ ] Verify BVN Selfie (post)
+- [ ] Verify phone number (get)
+
+#### Billing
+
+- [ ] Buy airtime (post)
+- [ ] List cable service providers (get)
+- [ ] List cable subscriptions (get)
+- [ ] Buy cable subscription (post)
+- [ ] List data bundles (get)
+- [ ] Buy data bundle (post)
+- [ ] List discos (get)
+- [ ] Preview meter details (post)
+- [ ] Buy electricity (post)
+
+#### Webhooks
+
+- [ ] Introduction
+- [ ] Events
+
+---
+
