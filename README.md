@@ -132,4 +132,3 @@ fintaPy is a Python SDK for seamless integration with Fintava Pay, providing dev
 - [ ] Events
 
 ---
-
